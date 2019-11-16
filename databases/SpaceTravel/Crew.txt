@@ -1,0 +1,7 @@
+Crew
+s%crew-id s%name s%title s%yearsExperience s%ship-id 
+s%455 s%Sally-Ride s%Engineer s%25 s%513 
+s%001 s%Laika s%doggo s%1 s%121 
+s%255 s%Buzz s%Pilot s%10 s%513 
+s%243 s%Ona s%Mechanic s%5 s%234 
+s%222 s%Valentina-Tereshkova s%Pilot s%8 s%234 

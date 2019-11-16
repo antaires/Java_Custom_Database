@@ -1,0 +1,4 @@
+StarBase
+s%base-id s%name s%capacity s%sector-id 
+s%0986 s%Farout s%500000 s%2314 
+s%5239 s%Titan s%30000 s%1302 

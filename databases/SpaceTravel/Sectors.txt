@@ -1,0 +1,4 @@
+Sectors
+s%sector-id s%name s%population s%government 
+s%2314 s%Omega s%760 s%Klingon 
+s%1302 s%Gas s%1200 s%USA 
