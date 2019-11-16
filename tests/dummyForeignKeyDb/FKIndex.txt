@@ -1,0 +1,3 @@
+primaryTable1 primaryCol1 fkTable1 fkCol1
+primaryTable2 primaryCol2 fkTable2 fkCol2
+primaryTable3 primaryCol3 fkTable3 fkCol3
