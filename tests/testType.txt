@@ -1,0 +1,4 @@
+testType
+i%num b%bool s%str
+i%45 b%1 s%234sdf
+i%9 b%0 s%anything
