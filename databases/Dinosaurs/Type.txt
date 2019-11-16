@@ -1,0 +1,2 @@
+Type
+s%name s%id s%size 
